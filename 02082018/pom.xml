@@ -20,8 +20,8 @@
 
   <distributionManagement>
     <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>https://repository-staging.itsistemi.com/content/repositories/snapshots</url>
+      <id>jenkins-artifacts</id>
+      <url>https://repository-staging.itsistemi.com/repository/jenkins-artifacts/</url>
     </snapshotRepository>
   </distributionManagement>
 
