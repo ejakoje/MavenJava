@@ -19,10 +19,10 @@
   </properties>
 
   <distributionManagement>
-    <snapshotRepository>
+    <repository>
       <id>jenkins-artifacts</id>
       <url>https://repository-staging.itsistemi.com/repository/jenkins-artifacts/</url>
-    </snapshotRepository>
+    </repository>
   </distributionManagement>
 
   <dependencies>
